@@ -1,0 +1,1 @@
+# BTC_CKPool_Individual_Miner_Statistics
