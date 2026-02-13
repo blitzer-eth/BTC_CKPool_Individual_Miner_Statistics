@@ -8,6 +8,11 @@ The suite is designed for miners and analysts to track the performance of **Solo
 
 ---
 
+## 📸 Snapshot
+<img width="3734" height="3171" alt="image" src="https://github.com/user-attachments/assets/cae15816-7ea3-45b0-8be6-1571ed992af8" />
+
+---
+
 ## 🔍 Query Breakdown
 
 ### 1. Solo CKPool Historical Performance
@@ -25,7 +30,3 @@ A real-time financial model that converts abstract network difficulty into concr
 * **Network Hashrate Derivation:** Dynamically calculates the current global hashrate (H/s) using the latest block difficulty.
 * **Win Probability:** Uses your specific hardware hashrate (TH/s) to determine the mathematical likelihood of finding a block within a 10-minute window.
 * **Efficiency Analysis:** Calculates the total electricity cost ($/USD) and energy consumption (kWh) required per block attempt, allowing for direct comparison against current BTC price.
----
-
-## 📸 Snapshot
-<img width="3734" height="3171" alt="image" src="https://github.com/user-attachments/assets/cae15816-7ea3-45b0-8be6-1571ed992af8" />
